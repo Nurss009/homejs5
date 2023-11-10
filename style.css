@@ -1,0 +1,18 @@
+.game-container {
+    margin: 50px;
+}
+section{
+    background-image: url("./assets/e9ffe68de8b7fcaaa013c866c2539863.jpeg");
+    background-repeat: no-repeat;
+}
+button {
+    margin-bottom: 30px;
+}
+button {
+    padding: 20px;
+    border-radius: 23px;
+}
+button:hover {
+    color: white;
+    background: black;
+}
